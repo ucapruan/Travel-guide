@@ -1,2 +1,2 @@
 # ASIA
-[Tokyo](./Japan/Tokoyo.md)
+[Tokyo](./Japan/Tokyo.md)
